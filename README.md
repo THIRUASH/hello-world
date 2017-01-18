@@ -1,2 +1,2 @@
 # hello-world
-Hi I am Ash and love poetry
+Hi I am Ash and I love poetry
